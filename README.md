@@ -1,4 +1,5 @@
-![header](./giphy.gif)
+
+<p align="center"> ![header](./giphy.gif)
 
 
     ### Hi there 👋
