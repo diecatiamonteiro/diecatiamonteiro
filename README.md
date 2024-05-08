@@ -9,8 +9,11 @@
 - Committed to crafting impactful and meaningful solutions.
 - Let's chat about education, design, technology, or anything related to web development. <br />
 <br />
+
+---
+
 #### Let's connect:
-<br />
+
 [![Linkdin Icon][def2]](https://www.linkedin.com/in/catiavilaca/)
 
 [def]: ./header.gif
