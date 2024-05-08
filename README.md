@@ -1,7 +1,7 @@
 
 ![header](./header2.svg)
 
-### I'm Cátia, a soon-to-be full-stack developer!
+## I'm Cátia, a soon-to-be full-stack developer!
 <br />
 
 - Currently enrolled in a web development course.
