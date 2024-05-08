@@ -2,7 +2,8 @@
 ![header](./header2.svg)
 
 # Let's connect:
-[![Linkdin Icon](./LinkedIn_icon.svg)](https://www.linkedin.com/in/catiavilaca/)
+[![Linkdin Icon][def2]](https://www.linkedin.com/in/catiavilaca/)
+
 
 
 - 🔭 I’m currently working on ...
@@ -17,3 +18,4 @@
 
 
 [def]: ./header.gif
+[def2]: ./LinkedIn_icon.svg
