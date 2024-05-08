@@ -8,8 +8,9 @@
 - Focused on refining my skills in HTML, CSS, and JavaScript, and exploring frameworks like React to create captivating user experiences.
 - Committed to crafting impactful and meaningful solutions.
 - Let's chat about education, design, technology, or anything related to web development. <br />
-
-### Let's connect:
+<br />
+#### Let's connect:
+<br />
 [![Linkdin Icon][def2]](https://www.linkedin.com/in/catiavilaca/)
 
 [def]: ./header.gif
