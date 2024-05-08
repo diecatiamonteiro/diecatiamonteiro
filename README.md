@@ -1,7 +1,7 @@
 
 ![header](./header2.svg)
 
-## I'm Cátia 👋, a dedicated teacher and soon-to-be full-stack developer!
+## I'm Cátia 👋, former teacher and soon-to-be full-stack developer!
 
 - Currently enrolled in a Web Development bootcamp at [DCI](https://www.example.com](https://start.digitalcareerinstitute.org ).
 - Focused on refining my skills in HTML, CSS, and JavaScript, and exploring frameworks like React to create captivating user experiences.
