@@ -1,14 +1,9 @@
 
-![header][def]
+![header](./header2.svg)
 
-<a href="#">
-  <img src="<iframe src="https://giphy.com/embed/bEV7msvlgLVrGTGZuT" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rainbow-background-rainbowbackground-bEV7msvlgLVrGTGZuT">via GIPHY</a></p>" alt="header" style="width: 3000px; height: 500px;">
-</a>
+# Let's connect:
+[![Linkdin Icon](./LinkedIn_icon.svg)](https://www.linkedin.com/in/catiavilaca/)
 
-
-    ### Hi there 👋
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
