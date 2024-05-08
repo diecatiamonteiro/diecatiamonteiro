@@ -1,18 +1,14 @@
 
 ![header](./header2.svg)
 
-## I'm Cátia, a soon-to-be full-stack developer!
-<br />
+## I'm Cátia 👋, a dedicated teacher and soon-to-be full-stack developer!
 
-- Currently enrolled in a web development course.
+- Currently enrolled in a Web Development bootcamp at [DCI](https://www.example.com](https://start.digitalcareerinstitute.org ).
 - Focused on refining my skills in HTML, CSS, and JavaScript, and exploring frameworks like React to create captivating user experiences.
-- Committed to crafting impactful and meaningful solutions.
-- Let's chat about education, design, technology, or anything related to web development. <br />
-<br />
+- UI/UX enthusiast with a keen eye for design and problem-solving.
+- Committed to crafting creative and impactful solutions.
 
----
-
-#### Let's connect:
+### Let's connect:
 
 [![Linkdin Icon][def2]](https://www.linkedin.com/in/catiavilaca/)
 
