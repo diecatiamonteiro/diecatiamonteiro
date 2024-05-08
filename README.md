@@ -1,5 +1,5 @@
 
-![header](./giphy.gif)
+![header](./header.gif)
 
 
     ### Hi there 👋
