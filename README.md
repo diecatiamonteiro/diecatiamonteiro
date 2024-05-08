@@ -1,5 +1,5 @@
 
-<p align="center"> ![header](./giphy.gif)
+![header](./giphy.gif)
 
 
     ### Hi there 👋
