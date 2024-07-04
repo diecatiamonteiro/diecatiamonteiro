@@ -1,7 +1,7 @@
 
 ![header](./header2.svg)
 
-## Soon-to-be full-stack developer
+## Soon-to-be front-end developer
 
 - Currently enrolled in a Web Development Bootcamp at [DCI](https://www.example.com](https://start.digitalcareerinstitute.org ).
 - Focused on refining my skills in HTML, CSS, and JavaScript, and exploring frameworks like React.
