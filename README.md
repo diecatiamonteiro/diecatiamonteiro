@@ -14,11 +14,27 @@
 🎯  *Refining design skills to elevate the user experience*
 
 ---
+
 ### **Let's Connect!**
 
-<a href="https://www.linkedin.com/in/catiamonteirov/">My LinkedIn
-</a>
+<div style="display: flex; align-items: center;">
 
-<a href="https://diecatiamonteiro.github.io/portfolio-website/">
-My Portfolio
-</a>
+  <div style="margin-right: 80px;">
+
+#### Say 'Hi!' on LinkedIn:
+
+ <a href="https://www.linkedin.com/in/catiamonteirov/"> 
+      <img src="linkedin-icon.png" alt="LinkedIn" height="80">
+    </a>
+  </div>
+
+  <div>
+
+#### Visit my portfolio:
+
+<a href="https://diecatiamonteiro.github.io/portfolio-website/"> 
+      <img src="portfolio-preview.png" alt="Portfolio" height="80">
+    </a>
+  </div>
+
+</div>
