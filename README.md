@@ -1,3 +1,27 @@
+![header](./header2.svg)
+
+# **Cátia Silva** | Junior Front-End Developer 💻✨ 
+
+🚀 **Aspiring Web Developer & UI/UX Enthusiast**  
+🌱 **Currently mastering:** HTML, CSS, JavaScript, and React  
+🎨 **Passionate about:** Creating visually appealing, user-friendly interfaces  
+💡 **Driven by:** Innovative problem-solving and impactful solutions  
+
+---
+
+### 📚 **Current Journey:**  
+🧑‍💻 *Web Development Student at [DCI](https://start.digitalcareerinstitute.org)*  
+🔧 *Building responsive web apps and exploring modern front-end frameworks*  
+🎯 *Honing design skills to elevate the user experience*
+
+---
+
+### 💼 **Let's Connect!**  
+[![LinkedIn](./LinkedIn_icon.svg)](https://www.linkedin.com/in/catia-example) 
+
+
+
+
 
 ![header](./header2.svg)
 
