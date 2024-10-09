@@ -1,8 +1,4 @@
-<span style="font-size: 80px; font-weight: bold">Cátia Monteiro</span>  
-<span style="font-size: 20px; font-weight: bold">✦ Web Developer</span>  
-<span style="font-size: 20px; font-weight: bold">✦ UI/UX Enthusiast</span>
-
----
+# Cátia Monteiro <br>✦  Web Developer <br>✦ UI/UX Enthusiast  <br> 
 
 ### **What I’m Up To**  
 ⬥ Web Development Student at [DCI](https://start.digitalcareerinstitute.org)   
