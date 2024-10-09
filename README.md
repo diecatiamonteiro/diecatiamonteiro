@@ -1,4 +1,4 @@
-<span style="font-size: 32px; font-weight: bold">Cátia Monteiro</span>  
+<span style="font-size: 80px; font-weight: bold">Cátia Monteiro</span>  
 <span style="font-size: 20px; font-weight: bold">✦ Web Developer</span>  
 <span style="font-size: 20px; font-weight: bold">✦ UI/UX Enthusiast</span>
 
