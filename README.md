@@ -17,12 +17,24 @@
 
 ### **Let's Connect!**
 
-#### Say 'Hi!' on LinkedIn:
+<div style="display: flex; align-items: center;">
 
-[![LinkedIn](./linkedin-icon.png)](https://www.linkedin.com/in/catiamonteirov/) 
+  <div style="margin-right: 80px;"> 
 
-#### Visit my portfolio:
+### Say 'Hi!' on LinkedIn:
 
-[![Portfolio](./portfolio-preview.png)](https://diecatiamonteiro.github.io/portfolio-website/)
+ <a href="https://www.linkedin.com/in/catiamonteirov/"> 
+      <img src="linkedin-icon.png" alt="LinkedIn" height="80">
+    </a>
+  </div>
 
+  <div>
 
+### Visit my portfolio:
+
+<a href="https://diecatiamonteiro.github.io/portfolio-website/"> 
+      <img src="portfolio-preview.png" alt="Portfolio" height="80">
+    </a>
+  </div>
+
+</div>
