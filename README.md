@@ -16,10 +16,9 @@
 ---
 ### **Let's Connect!**
 
-
-<a href="https://www.linkedin.com/in/catiamonteirov/">
-  <img src="./linkedin-icon.svg" alt="LinkedIn" width="60" height="60">
+<a href="https://www.linkedin.com/in/catiamonteirov/">My LinkedIn
 </a>
+
 <a href="https://diecatiamonteiro.github.io/portfolio-website/">
-  <img src="./portfolio-preview.png" alt="Portfolio" width="90" height="60">
+My Portfolio
 </a>
