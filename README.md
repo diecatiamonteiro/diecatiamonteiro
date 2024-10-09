@@ -1,5 +1,3 @@
-![header](./header2.svg)
-
 # **Cátia Monteiro** | Front-End Developer ✨ 
 
 🚀 **Web Developer in the making & UI/UX Enthusiast**  
@@ -19,5 +17,4 @@
 [![LinkedIn](./LinkedIn_icon.svg)](https://www.linkedin.com/in/catia-example) 
 [![Portfolio](./portfolio_icon.svg)](https://yourportfolio.com) 
 
-[def]: ./header.gif
 [def2]: ./LinkedIn_icon.svg
