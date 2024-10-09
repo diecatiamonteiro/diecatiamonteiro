@@ -1,5 +1,5 @@
 ![header](./header2.svg)
-![animation](https://lottie.host/4587c784-e17c-490b-b676-c3c18f94448e/kVX9EWipLR.lottie)
+[animation](https://lottie.host/4587c784-e17c-490b-b676-c3c18f94448e/kVX9EWipLR.lottie)
 # **Cátia Monteiro** | Junior Front-End Developer 💻✨ 
 
 🚀 **Aspiring Web Developer & UI/UX Enthusiast**  
