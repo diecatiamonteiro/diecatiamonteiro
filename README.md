@@ -17,9 +17,12 @@
 ### **Let's Connect!**
 
 
-[![LinkedIn](./linkedin-icon.svg){width=40px height=40px}](https://www.linkedin.com/in/catia-example) 
-[![Portfolio](./portfolio-preview.png){width=40px height=40px}](https://diecatiamonteiro.github.io/portfolio-website/)
-
+<a href="https://www.linkedin.com/in/catia-example">
+  <img src="./linkedin-icon.svg" alt="LinkedIn" width="60" height="60">
+</a>
+<a href="https://diecatiamonteiro.github.io/portfolio-website/">
+  <img src="./portfolio-preview.png" alt="Portfolio" width="90" height="60">
+</a>
 
 [def2]: ./linkedin-icon.svg
 [def2]: ./portfolio-preview.png
