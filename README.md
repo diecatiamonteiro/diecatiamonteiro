@@ -1,5 +1,6 @@
 ![header](./header2.svg)
 [animation](https://lottie.host/embed/7b694bac-2f6a-463a-9843-3796accd5ae0/JrOe1zyaDY.json)
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script><lottie-player src="https://lottie.host/7b694bac-2f6a-463a-9843-3796accd5ae0/JrOe1zyaDY.json" background="##FFFFFF" speed="1" style="width: 300px; height: 300px" loop controls autoplay direction="1" mode="normal"></lottie-player>
 # **Cátia Monteiro** | Junior Front-End Developer 💻✨ 
 
 🚀 **Aspiring Web Developer & UI/UX Enthusiast**  
