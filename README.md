@@ -1,6 +1,6 @@
 ![header](./header2.svg)
 
-# **Cátia Silva** | Junior Front-End Developer 💻✨ 
+# **Cátia Monteiro** | Junior Front-End Developer 💻✨ 
 
 🚀 **Aspiring Web Developer & UI/UX Enthusiast**  
 🌱 **Currently mastering:** HTML, CSS, JavaScript, and React  
@@ -15,10 +15,10 @@
 🎯 *Honing design skills to elevate the user experience*
 
 ---
+### 💼 **Let's Connect!**
 
-### 💼 **Let's Connect!**  
 [![LinkedIn](./LinkedIn_icon.svg)](https://www.linkedin.com/in/catia-example) 
-
+[![Portfolio](./portfolio_icon.svg)](https://yourportfolio.com) 
 
 
 
