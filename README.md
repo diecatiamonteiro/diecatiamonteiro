@@ -17,6 +17,7 @@
 ### **Let's Connect!**
 
 [![LinkedIn](./LinkedIn_icon.svg)](https://www.linkedin.com/in/catia-example) 
-[![Portfolio](./portfolio_icon.svg)](https://yourportfolio.com) 
+[![Portfolio](./portfolio_icon.svg)](https://diecatiamonteiro.github.io/portfolio-website/)]
 
 [def2]: ./LinkedIn_icon.svg
+
