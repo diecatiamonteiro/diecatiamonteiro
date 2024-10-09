@@ -17,8 +17,12 @@
 
 ### **Let's Connect!**
 
-[![LinkedIn](./LinkedIn_icon.svg)](https://www.linkedin.com/in/catia-example) 
-[![Portfolio](./portfolio_icon.svg)](https://diecatiamonteiro.github.io/portfolio-website/)]
+#### Say 'Hi!' on LinkedIn:
 
-[def2]: ./LinkedIn_icon.svg
+[![LinkedIn](./linkedin-icon.png)](https://www.linkedin.com/in/catiamonteirov/) 
+
+#### Visit my portfolio:
+
+[![Portfolio](./portfolio-preview.png)](https://diecatiamonteiro.github.io/portfolio-website/)
+
 
