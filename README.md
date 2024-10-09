@@ -12,5 +12,5 @@
 
 #### **Find Me Here**
 
-Come and say hi! on [LinkedIn](https://www.linkedin.com/in/catiamonteirov/).   
+Come and say Hi! on [LinkedIn](https://www.linkedin.com/in/catiamonteirov/).   
 Visit my [portfolio](https://diecatiamonteiro.github.io/portfolio-website/).
