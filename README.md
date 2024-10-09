@@ -1,6 +1,6 @@
-## **Cátia Monteiro** | Front-End Developer ✨ 
+# **Cátia Monteiro** | Front-End Developer ✨ 
 
----
+<br>
 
 🚀 **Web Developer in the making & UI/UX Enthusiast**  
 🌱 **Currently mastering:** HTML, CSS, JavaScript, and React  
