@@ -1,7 +1,7 @@
 ## Cátia Monteiro <br>✦  Web Developer <br>✦ UI/UX Advocate  <br>
 
 
-Hey there, and welcome to my journey—from senior to junior! After 15 rewarding years in Education, I've made an exciting career shift into web development. It's been such a blast so far, and I can’t wait to keep learning and growing my skills in this field.
+Hi, and welcome to my journey—from senior to junior! After 15 rewarding years in Education, I've made an exciting career shift into web development. It's been such a blast so far, and I can’t wait to keep learning and growing my skills in this field.
 <br>
 
 ---
