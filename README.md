@@ -23,7 +23,3 @@
 <a href="https://diecatiamonteiro.github.io/portfolio-website/">
   <img src="./portfolio-preview.png" alt="Portfolio" width="90" height="60">
 </a>
-
-
-[def2]: ./linkedin-icon.svg
-[def2]: ./portfolio-preview.png
