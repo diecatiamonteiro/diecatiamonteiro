@@ -1,4 +1,4 @@
-# **Cátia Monteiro** | Front-End Developer ✨ 
+## **Cátia Monteiro** | Front-End Developer ✨ 
 
 ---
 
@@ -8,13 +8,13 @@
 
 ---
 
-### 📚 **Current Journey:**  
+### **Current Journey:**  
 🧑‍💻 *Web Development Student at [DCI](https://start.digitalcareerinstitute.org)*  
 🔧 *Building responsive web apps and exploring modern front-end frameworks*  
 🎯 *Refining design skills to elevate the user experience*
 
 ---
-### 💼 **Let's Connect!**
+### **Let's Connect!**
 
 [![LinkedIn](./LinkedIn_icon.svg)](https://www.linkedin.com/in/catia-example) 
 [![Portfolio](./portfolio_icon.svg)](https://yourportfolio.com) 
