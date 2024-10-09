@@ -1,6 +1,6 @@
 ![header](./header2.svg)
 
-# **Cátia Monteiro** | (Very) Junior Front-End Developer ✨ 
+# **Cátia Monteiro** | Front-End Developer ✨ 
 
 🚀 **Web Developer in the making & UI/UX Enthusiast**  
 🌱 **Currently mastering:** HTML, CSS, JavaScript, and React  
