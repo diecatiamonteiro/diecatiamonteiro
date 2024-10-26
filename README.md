@@ -16,5 +16,4 @@ Hi, and welcome to my journey—from senior to junior! After 15 rewarding years 
 
 ### 📍 Find Me Here:
 
-Come and say Hi! on **[LinkedIn](https://www.linkedin.com/in/catiamonteirov/)**.   
-Visit my **[portfolio](https://diecatiamonteiro.github.io/portfolio-website/)**.
+Come and say Hi! on **[LinkedIn](https://www.linkedin.com/in/catiamonteirov/)**.
