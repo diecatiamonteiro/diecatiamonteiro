@@ -6,15 +6,15 @@ Hi, and welcome to my journey—from senior to junior! After many rewarding year
 
 ---
 
-### ⚡ What I’m Up To
+### ⚡ What I’m Up To:
 Web Development Student at [DCI](https://start.digitalcareerinstitute.org)   
 
-**Core Skills**:                   
+**Core Skills**                             
 ⬥ Front-end: HTML, CSS, JavaScript, React, Tailwind CSS              
 ⬥ Back-end: Express.js, MongoDB             
 ⬥ Testing: Vitest            
 
-**Currently**:                  
+**Currently**                    
 ⬥ Diving into back-end with MongoDB and Express            
 ⬥ Deepening expertise in JavaScript and React for building Single Page Applications (SPA)           
 ⬥ Exploring responsive design and software testing           
