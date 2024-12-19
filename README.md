@@ -17,7 +17,7 @@ Web Development Student at [DCI](https://start.digitalcareerinstitute.org)
 🚀 Currently:                  
 ⬥ Diving into back-end with MongoDB and Express            
 ⬥ Deepening expertise in JavaScript and React for building Single Page Applications (SPA)           
-⬥ Exploring responsive design            
+⬥ Exploring responsive design and software testing           
 ⬥ Refining UI/UX design skills to enhance user experience            
 
 ---
