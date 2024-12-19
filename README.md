@@ -7,7 +7,7 @@ Hi, and welcome to my journey—from senior to junior! After many rewarding year
 ---
 
 ### ⚡ What I’m Up To:
-Web Development Student at [DCI](https://start.digitalcareerinstitute.org)   
+Fullstack Web Development Student at [DCI](https://start.digitalcareerinstitute.org).   
 
 **Core Skills**                             
 ⬥ Front-end: HTML, CSS, JavaScript, React, Tailwind CSS              
