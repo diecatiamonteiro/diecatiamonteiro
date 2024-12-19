@@ -16,10 +16,10 @@ Fullstack Web Development Student at [DCI](https://start.digitalcareerinstitute.
 
 **Currently**                    
 ⬥ Diving into back-end with MongoDB and Express            
-⬥ Deepening expertise in JavaScript and React for building Single Page Applications (SPA)           
-⬥ Applying responsive design techniques onto my SPA             
-⬥ Exploring the exciting world of software testing          
-⬥ Refining UI/UX design skills to enhance user experience            
+⬥ Deepening expertise in JavaScript and React for building Single Page Applications (SPA)                   
+⬥ Applying responsive design techniques onto my SPA                    
+⬥ Exploring the exciting world of software testing                       
+⬥ Refining UI/UX design skills to enhance user experience                       
 
 ---
 
