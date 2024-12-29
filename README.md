@@ -1,4 +1,4 @@
-## Cátia Monteiro <br>✦  Full-Stack Developer <br>✦ UI/UX Advocate  <br>
+## Cátia Monteiro <br>✦  Full-stack Developer <br>✦ UI/UX Advocate  <br>
 
 
 Hi, and welcome to my journey—from senior to junior! After many rewarding years in Education, I've made an exciting career shift into web development. It's been such a blast so far, and I can’t wait to keep learning and growing my skills in this field.
