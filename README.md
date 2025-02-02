@@ -11,7 +11,7 @@ Full-Stack Web Development Student at [DCI](https://start.digitalcareerinstitute
 
 **Core Skills**  
 ⬥ Front End: HTML, CSS, Tailwind CSS, JavaScript, React, Next.js, Responsive Design  
-⬥ Back End: Express.js, Node.js, MongoDB, Mongoose, RESTfull APIs  
+⬥ Back End: Express.js, Node.js, MongoDB, Mongoose, RESTful APIs  
 ⬥ Testing: Vitest, Cypress
 
 **Currently**  
