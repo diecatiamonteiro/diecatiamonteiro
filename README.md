@@ -1,11 +1,12 @@
 ## Cátia Monteiro <br>✦ Full-Stack Developer <br>✦ UI/UX Advocate <br>
 
-Hi, and welcome to my journey—from senior to junior! After many rewarding years in Education, I've made an exciting career shift into web development. It's been such a blast so far, and I can’t wait to keep learning and growing my skills in this field.
+I'm a web developer passionate about creating intuitive and user-friendly experiences. With a background in education, I bring a problem-solving mindset and a strong ability to simplify complexity—skills that translate smoothly into building web applications.
+
 <br>
 
 ---
 
-### ⚡ What I’m Up To:
+### ⚡ What I'm Up To:
 
 Full-Stack Web Development Student at [DCI](https://start.digitalcareerinstitute.org).
 
