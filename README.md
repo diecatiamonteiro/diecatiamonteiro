@@ -2,8 +2,6 @@
 
 I'm a web developer passionate about creating intuitive and user-friendly experiences. With a background in education, I bring a problem-solving mindset and a strong ability to simplify complexity—skills that translate smoothly into building web applications.
 
-<br>
-
 ---
 
 ### ⚡ What I'm Up To:
