@@ -1,28 +1,42 @@
 ## Cátia Monteiro <br>✦ Full-Stack Developer <br>✦ UI/UX Advocate <br>
 
-I'm a web developer passionate about creating intuitive and user-friendly experiences. With a background in education, I bring a problem-solving mindset and a strong ability to simplify complexity—skills that translate smoothly into building web applications.
+I build clean, user-friendly web applications with JavaScript and the MERN stack.
+
+I'm a frontend enthusiast at heart, but working with Node.js and Express has expanded my passion into the backend. I now equally enjoy designing seamless user experiencess and building solid server-side logic.
 
 ---
 
-### ⚡ What I'm Up To:
+### Tech Stack
 
-Full-Stack Web Development Student at [DCI](https://start.digitalcareerinstitute.org).
+**Frontend Development**  
+JavaScript • TypeScript • React • Next.js  
+HTML • CSS • SCSS • Tailwind CSS • Bootstrap  
+State Management • Responsive Design • UI/UX Design  
 
-**Core Skills**  
-⬥ Front End: HTML, CSS, Tailwind CSS, JavaScript, React, Next.js, Responsive Design  
-⬥ Back End: Express.js, Node.js, MongoDB, Mongoose, RESTful APIs  
-⬥ Testing: Vitest, Cypress
+**Backend Development**  
+Node.js • Express.js • MongoDB • Mongoose • RESTful APIs  
 
-**Currently**  
-⬥ Deepening my back-end knowledge by building RESTfull APIs with MongoDB, Mongoose, and Express  
-⬥ Expanding my expertise in JavaScript and React by building Single Page Applications (SPA)  
-⬥ Applying responsive design techniques onto my SPA  
-⬥ Exploring the exciting world of software testing  
-⬥ Refining UI/UX design skills to enhance user experience
+**Version Control & DevOps**  
+Git • GitHub • GitHub Actions  
+
+**Testing**  
+Vitest • Cypress 
+
+**Content Management**  
+WordPress (basic CMS setup) • Contentful (explored) • Netlify (for hosting)
+
+---
+
+### 🟢 What I'm Working On
+
+⬥ Improving type safety with **TypeScript**  
+⬥ Automating **CI/CD** workflows with **GitHub Actions**             
+⬥ Writing unit and integration tests with **Vitest**  
+⬥ Exploring **CMS** workflows and getting familiar with **WordPress**
 
 ---
 
 ### 📍 Find Me Here:
 
-Come and say Hi! on **[LinkedIn](https://www.linkedin.com/in/catiamonteirov/)**.  
-And check my **[Portfolio](https://www.catiamonteiro.dev)**.
+Check out my portfolio: **[catiamonteiro.dev](https://www.catiamonteiro.dev)**  
+Come and say Hi! on **[LinkedIn](https://www.linkedin.com/in/catiamonteirov/)**
