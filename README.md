@@ -23,7 +23,7 @@ Git • GitHub • GitHub Actions
 Vitest • Cypress 
 
 **Content Management**  
-WordPress (basic CMS setup) • Contentful (explored) • Netlify (for hosting)
+WordPress (basic CMS setup) • Contentful (explored)
 
 ---
 
